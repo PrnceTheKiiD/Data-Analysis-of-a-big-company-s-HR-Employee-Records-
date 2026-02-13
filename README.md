@@ -1,7 +1,7 @@
 1. Project Background (& Overview)
 
   A big company with 2 million employees has records from HR about the company's employees. The employee records have to be analyzed to be able to get insight on the company's employees and how all of them compare to each other.
-   The Data was aqcuired on Kaggle this is the link: 
+   The Data was aqcuired on Kaggle this is the link: https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc
 
    The objectives of the project are to find out the:
    - Salary of each Job Title in all Departments
