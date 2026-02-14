@@ -1,6 +1,6 @@
-#1. Project Background (& Overview)
+1. Project Background (& Overview)
 
-  A big company with 2 million employees has records from HR about the company's employees. The employee records have to be analyzed to be able to get insight on the company's employees and how all of them compare to each other.
+  A big company with 2 million employees has records from HR about the company's employees. The employee records have to be analyzed to be able to get insight on the company's employees and how all of them compare  to each other.
    The Data was aqcuired on Kaggle this is the link: https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc
 
    The objectives of the project are to find out the:
@@ -12,10 +12,10 @@
 
    The main issue in this project was the positioning of the axis ticks in the charts because in some of the visualisations the tick labels would overlap and some bars would overlap too.
 
-#2. Data Structure
+2. Data Structure
    
    Entity Relationship Diagrams for each dataset used
 
-#3. Executive Summary
+3. Executive Summary
    
    Go into a deep dive for each Objective or Target Metric that gives us insight, add images of each metric's dashboard
