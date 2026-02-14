@@ -19,7 +19,3 @@
 4. Executive Summary
    
    Go into a deep dive for each Objective or Target Metric that gives us insight, add images of each metric's dashboard
-
-6. Recommendations
-
-   Give a recommendation in regards to each target metric that was analyzed, advice the business on how to improve each metric performance
